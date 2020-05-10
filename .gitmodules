@@ -1,0 +1,3 @@
+[submodule "devwsc"]
+	path = devwsc
+	url = git@github.com:wsicheng/ODMBDevelopment.git
