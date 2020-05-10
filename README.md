@@ -22,3 +22,17 @@ git pull
 git commit -a -m "Update with updates from <dirname>" 
 git push
 ```
+
+## To checkout
+In one go for all code (lazy option)
+```bash
+git clone --recurse-submodules https://github.com/odmb/odmbUserDevelopments.git
+```
+
+Do init only and checkout only the desired submodules
+```bash
+git clone git@github.com:odmb/odmbUserDevelopments.git
+cd <dirname>
+git submodule init
+git submodule update
+```
