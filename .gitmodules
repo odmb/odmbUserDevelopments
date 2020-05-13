@@ -1,3 +1,6 @@
 [submodule "devwsc"]
 	path = devwsc
 	url = git@github.com:wsicheng/ODMBDevelopment.git
+[submodule "devmhl"]
+	path = devmhl
+	url = git@github.com:mhl0116/vivadoProjects.git
