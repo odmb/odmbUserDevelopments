@@ -7,3 +7,6 @@
 [submodule "devkjb/kcu105_template"]
 	path = devkjb/kcu105_template
 	url = git@github.com:jaebak/jb_kcu105_template.git
+[submodule "devosm/devosm"]
+	path = devosm/devosm
+	url = git@github.com:mcoshiro/oshiro_odmbDevelopment.git
