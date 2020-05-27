@@ -4,3 +4,6 @@
 [submodule "devmhl"]
 	path = devmhl
 	url = git@github.com:mhl0116/vivadoProjects.git
+[submodule "devkjb/kcu105_template"]
+	path = devkjb/kcu105_template
+	url = git@github.com:jaebak/jb_kcu105_template.git
