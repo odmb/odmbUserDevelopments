@@ -30,6 +30,12 @@ git commit -a -m "Updated with updates"
 git push
 ```
 
+or
+
+```bash
+./pullAnddPush.sh
+```
+
 ## To checkout
 In one go for all code (lazy option)
 ```bash
