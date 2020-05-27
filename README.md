@@ -23,6 +23,13 @@ git commit -a -m "Update with updates from <dirname>"
 git push
 ```
 
+or
+```bash
+git submodule update --recursive --remote --merge
+git commit -a -m "Updated with updates"
+git push
+```
+
 ## To checkout
 In one go for all code (lazy option)
 ```bash
