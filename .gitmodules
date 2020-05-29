@@ -10,3 +10,6 @@
 [submodule "devosm/devosm"]
 	path = devosm/devosm
 	url = git@github.com:mcoshiro/oshiro_odmbDevelopment.git
+[submodule "devkjb/i2c_master"]
+	path = devkjb/i2c_master
+	url = git@github.com:jaebak/i2c_master.git
